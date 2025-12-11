@@ -1,0 +1,62 @@
+[
+    {
+        "demand_file": "ca_home_profile_1.csv",
+        "generation_file": "ca_solar_profile_1.csv",
+        "rate_file": "touD49_sce.csv",
+        "timeSpan": 8760,
+        "batteryCapacity": 13.5,
+        "chargeEfficiency": 0.9,
+        "dischargeEfficiency": 0.9,
+        "chargeLimit": 5.0,
+        "dischargeLimit": 5.0,
+        "case_id": 1
+    },
+    {
+        "demand_file": "ca_home_profile_2.csv",
+        "generation_file": "ca_solar_profile_2.csv",
+        "rate_file": "touDR1_sdge.csv",
+        "timeSpan": 8760,
+        "batteryCapacity": 13.5,
+        "chargeEfficiency": 0.9,
+        "dischargeEfficiency": 0.9,
+        "chargeLimit": 5.0,
+        "dischargeLimit": 5.0,
+        "case_id": 2
+    }, 
+    {
+        "demand_file": "ca_home_profile_3.csv",
+        "generation_file": "ca_solar_profile_3.csv",
+        "rate_file": "touDR1_sdge.csv",
+        "timeSpan": 8760,
+        "batteryCapacity": 13.5,
+        "chargeEfficiency": 0.9,
+        "dischargeEfficiency": 0.9,
+        "chargeLimit": 5.0,
+        "dischargeLimit": 5.0,
+        "case_id": 3
+    }, 
+    {
+        "demand_file": "ca_home_profile_4.csv",
+        "generation_file": "ca_solar_profile_4.csv",
+        "rate_file": "touDR1_sdge.csv",
+        "timeSpan": 8760,
+        "batteryCapacity": 13.5,
+        "chargeEfficiency": 0.9,
+        "dischargeEfficiency": 0.9,
+        "chargeLimit": 5.0,
+        "dischargeLimit": 5.0,
+        "case_id": 4
+    }, 
+     {
+        "demand_file": "ca_home_profile_5.csv",
+        "generation_file": "ca_solar_profile_5.csv",
+        "rate_file": "touDR1_sdge.csv",
+        "timeSpan": 8760,
+        "batteryCapacity": 13.5,
+        "chargeEfficiency": 0.9,
+        "dischargeEfficiency": 0.9,
+        "chargeLimit": 5.0,
+        "dischargeLimit": 5.0,
+        "case_id": 5
+    }
+]
